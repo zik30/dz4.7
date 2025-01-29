@@ -1,58 +1,22 @@
 {
   "students": [
     {
-      "id": 1,
-      "lastname": "Акунов",
-      "name": "Нурислан",
-      "idGroup": 2
+      "id": "2",
+      "name": "Ainazik",
+      "lastname": "Ishenbek",
+      "idGroup": "44-012"
     },
     {
-      "id": 2,
-      "lastname": "Алиев",
-      "name": "Тимур",
-      "idGroup": 2
+      "id": "3",
+      "name": "Raiana",
+      "lastname": "N/A   ",
+      "idGroup": "44-01"
     },
     {
-      "id": 3,
-      "lastname": "Алимжанов",
-      "name": "Байэл",
-      "idGroup": 3
-    },
-    {
-      "id": 4,
-      "lastname": "Алишеров",
-      "name": "Чынгыз",
-      "idGroup": 4
-    },
-    {
-      "id": 5,
-      "lastname": "Аширбеков",
-      "name": "Данияр",
-      "idGroup": 3
-    },
-    {
-      "id": 6,
-      "lastname": "Болотбекова",
-      "name": "Гулайым",
-      "idGroup": 2
-    },
-    {
-      "id": 7,
-      "lastname": "Бондарева",
-      "name": "Ирина",
-      "idGroup": 2
-    },
-    {
-      "id": "8",
-      "name": " Ainazik",
-      "lastname": " sdf",
-      "idGroup": " sdf"
-    },
-    {
-      "id": "9",
-      "name": "A",
-      "lastname": "A",
-      "idGroup": "A"
+      "id": "4",
+      "name": "Nurperi",
+      "lastname": "Turgunalieva",
+      "idGroup": "43-01"
     }
   ]
 }
